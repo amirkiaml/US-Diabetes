@@ -6,7 +6,8 @@ In this notebook I explore the dataset and determine if there are any sub-groups
 
 The raw data can be found at the UCI Machine Learning Repository.
 
-This data is publicly available: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+This data is publicly available: 
+https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 
 A description of the variables found in the dataset can be found here: https://onlinelibrary.wiley.com/doi/10.1155/2014/781670
 
